@@ -239,6 +239,3 @@ Presidency University, Bangalore
 
 ---
 
-## 📜 License
-
-This project is created for educational and internship purposes. Feel free to use, modify, and enhance it for learning.
